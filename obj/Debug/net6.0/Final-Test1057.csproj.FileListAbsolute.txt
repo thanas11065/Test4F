@@ -1,0 +1,15 @@
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\Final-Test1057.csproj.AssemblyReference.cache
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\Final-Test1057.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\Final-Test1057.AssemblyInfoInputs.cache
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\Final-Test1057.AssemblyInfo.cs
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\Final-Test1057.csproj.CoreCompileInputs.cache
+C:\Users\thanas11065\Desktop\Final-Test1057\bin\Debug\net6.0\Final-Test1057.exe
+C:\Users\thanas11065\Desktop\Final-Test1057\bin\Debug\net6.0\Final-Test1057.deps.json
+C:\Users\thanas11065\Desktop\Final-Test1057\bin\Debug\net6.0\Final-Test1057.runtimeconfig.json
+C:\Users\thanas11065\Desktop\Final-Test1057\bin\Debug\net6.0\Final-Test1057.dll
+C:\Users\thanas11065\Desktop\Final-Test1057\bin\Debug\net6.0\Final-Test1057.pdb
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\Final-Test1057.dll
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\refint\Final-Test1057.dll
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\Final-Test1057.pdb
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\Final-Test1057.genruntimeconfig.cache
+C:\Users\thanas11065\Desktop\Final-Test1057\obj\Debug\net6.0\ref\Final-Test1057.dll
